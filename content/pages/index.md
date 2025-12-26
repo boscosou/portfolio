@@ -52,7 +52,6 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/Work-in-progress.md
-      - content/pages/projects/project-two.md
     styles:
       self:
         height: auto
