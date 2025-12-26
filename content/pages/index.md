@@ -44,7 +44,7 @@ sections:
         url: https://boscosou.com/info/
         showIcon: false
         icon: arrowRight
-        iconPosition: left
+        iconPosition: right
         style: primary
         elementId: ''
   - type: CtaSection
