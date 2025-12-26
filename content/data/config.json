@@ -10,6 +10,16 @@
         "primaryLinks": [
             {
                 "type": "Link",
+                "label": "Home",
+                "altText": "",
+                "url": "boscosou.com",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "left",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "Info",
                 "url": "/info"
             },
@@ -22,16 +32,6 @@
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog"
-            },
-            {
-                "type": "Link",
-                "label": "Home",
-                "altText": "",
-                "url": "boscosou.com",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "left",
-                "elementId": ""
             }
         ],
         "socialLinks": [
