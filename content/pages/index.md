@@ -47,6 +47,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: https://www.linkedin.com/in/boscosou/
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - type: CtaSection
     title: Let's do this
     text: >-
