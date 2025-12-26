@@ -8,7 +8,7 @@ description: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: /images/post-3.jpg
+  url: /images/featured-Image4.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
