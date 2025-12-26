@@ -52,7 +52,7 @@ sections:
         altText: ''
         url: https://www.linkedin.com/in/boscosou/
         showIcon: true
-        icon: arrowRight
+        icon: cart
         iconPosition: right
         style: primary
         elementId: ''
