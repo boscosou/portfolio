@@ -37,7 +37,54 @@ sections:
         flexDirection: row-reverse
         textAlign: left
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: About me
+        altText: ''
+        url: https://boscosou.com/info/
+        showIcon: false
+        icon: ''
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: LinkedIn
+        altText: ''
+        url: https://www.linkedin.com/in/boscosou/
+        showIcon: true
+        icon: linkedin
+        iconPosition: right
+        style: primary
+        elementId: ''
+  - type: CtaSection
+    title: Let's do this
+    text: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
+    actions:
+      - type: Button
+        label: Try it now
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        flexDirection: col
+        textAlign: left
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -52,7 +99,6 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/Work-in-progress.md
-      - content/pages/projects/project-two.md
     styles:
       self:
         height: auto

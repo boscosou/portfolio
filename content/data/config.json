@@ -1,13 +1,23 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/favicon 1.svg",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
-        "isSticky": false,
-        "title": "Personal",
-        "isTitleVisible": true,
+        "isSticky": true,
+        "title": "Bosco Sou",
+        "isTitleVisible": false,
         "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "altText": "",
+                "url": "boscosou.com",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "left",
+                "elementId": ""
+            },
             {
                 "type": "Link",
                 "label": "Info",
@@ -90,5 +100,6 @@
                 ]
             }
         }
-    }
+    },
+    "titleSuffix": "boscosou"
 }
