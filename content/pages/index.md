@@ -37,7 +37,16 @@ sections:
         flexDirection: row-reverse
         textAlign: left
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: https://boscosou.com/info/
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - type: CtaSection
     title: Let's do this
     text: >-
