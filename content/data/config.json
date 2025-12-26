@@ -6,7 +6,7 @@
         "headerVariant": "variant-c",
         "isSticky": true,
         "title": "Bosco Sou",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
