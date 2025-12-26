@@ -51,7 +51,7 @@ sections:
         label: Learn more
         altText: ''
         url: https://www.linkedin.com/in/boscosou/
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
