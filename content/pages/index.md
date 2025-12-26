@@ -48,7 +48,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: LinkedIn
         altText: ''
         url: https://www.linkedin.com/in/boscosou/
         showIcon: true
