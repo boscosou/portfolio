@@ -43,7 +43,7 @@ sections:
         altText: ''
         url: https://boscosou.com/info/
         showIcon: false
-        icon: cart
+        icon: ''
         iconPosition: right
         style: primary
         elementId: ''
