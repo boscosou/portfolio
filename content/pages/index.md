@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/35510883_v882-kul-42-a.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
