@@ -7,7 +7,7 @@ backgroundImage:
   url: /images/35510883_v882-kul-42-a.jpg
   backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: no-repeat
+  backgroundRepeat: repeat-x
   opacity: 75
 sections:
   - elementId: ''
