@@ -9,8 +9,8 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
-date: '2021-11-03'
-author: content/data/team/doris-soto.json
+date: '2025-12-27'
+author: content/data/team/bosco-sou.json
 excerpt: >-
   More context that may or may not be helpful
 featuredImage:
